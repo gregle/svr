@@ -79,45 +79,47 @@ So imma post a bunch of links here.... no reason... but dang do they look clicka
  
 ### Improve Organizer/Volunteer visibility
 
-    "I'd appreciate a little more structure or maybe a few hosting reps who were really visible and able to talk to me. I've shown up as a total newbie on my own and it was pretty alienating/overwhelming."
+>"I'd appreciate a little more structure or maybe a few hosting reps who were really visible and able to talk to me. I've shown up as a total newbie on my own and it was pretty alienating/overwhelming."
+
+We're working on some ideas for making it a little more obvious who's who during a meetup/event.
 
 ### An Offical Suggestion Box (digital or otherwise)
 
-    "take suggestions for meetup content ideas"
+>"take suggestions for meetup content ideas"
 
-As it stands you can always email, tag, dm, tweet, message, or carrier pigeon us your ideas and suggestions. We love getting outside input!
+We'll see about setting up an offical feedback/suggestion process. As it stands though, you can always email, tag, dm, tweet, message, or carrier pigeon us your ideas and suggestions. We love getting outside input!
 
 ### Better communication / More frequent updates
 
-    "I think just spending more time to really craft the topic and have a nice summary that says what exactly is going on when. An agenda, a write up on the topic, a write up on each speaker, a write up about each demo, etc. Tell us what will be shown, who will be there and speaking."
+>"I think just spending more time to really craft the topic and have a nice summary that says what exactly is going on when. An agenda, a write up on the topic, a write up on each speaker, a write up about each demo, etc. Tell us what will be shown, who will be there and speaking."
 
 We got a lot of similar sentiments and a lot of suggestions for things we're already doing (talks, fireside chats, collaborative projects). Which further suggests to me that we could do better promoting, cross-promoting, and summarizing our events.
 
 ### Shorter lines/wait times
 
-    "Numbered tickets so that I can reserve a spot and return. Every time experience is over whoever has smallest number gets to try next and ticket is taken from them."
+>"Numbered tickets so that I can reserve a spot and return. Every time experience is over whoever has smallest number gets to try next and ticket is taken from them."
 
-    "Shorter lines for demos! I have no idea how you would do that, though…"
-    
-We're working hard to get the demo wait lines down. Luckily it's a good problem. A hard problem to solve, but a good one to have. 
+>"Shorter lines for demos! I have no idea how you would do that, though…"
+
+We're working hard to get the demo wait lines down. Luckily it's a good problem. A hard problem to solve, but a good one to have.
 
 ### More industry representation
 
-    "Bring in more people from industry to give talks. So much platform VR stuff going on in Seattle."
+>"Bring in more people from industry to give talks. So much platform VR stuff going on in Seattle."
 
-    "Have some more big names attend!!!"
+>"Have some more big names attend!!!"
 
-I mean, hell yeah!
+I mean... hell yeah!
 
 ### Industry Stickers/Identifiers (Artist, Sound Designers, Programmers, Business folks, makers/hobbeiests, experience levels)
 
-This was brought up a few times in various forms. We want to be careful though. Things like these can quickly devolve into a "we don't talk to orange badges" mentality. But at the same time we recognize how it'd be a lot less intimidating to walk up to someone new when you already know you have a shared interest in sound design, for example.
+This was brought up a few times in various forms. We want to be careful though. Things like these can quickly devolve into a "we don't talk to orange badges" mentality. But at the same time we recognize how it'd be a lot less intimidating to walk up and introduce yourself to someone new, when you already know you have a shared interest in sound design, for example.
 
 ## 7) Are you employed in immersive tech?
 ![Graph for question 7](graphs/7-employment.png)
-We got a fantastic variety in self described job titles and congrats to the person that just got hired at Oculus. :raised_hands:
+We also got a fantastic variety in self-described job titles and congratulations to the person that just got hired at Oculus. :raised_hands:
 
 ## Call for Volunteers
 We got a bunch of new people offering to volunteer and I just want to say thank you!!! We'll be in contact soon as we formalize our volunteer process. <3
 
-And if you've read this far thanks so much! We're so proud of this community, and we can't wait to get to work on supporting it the best that we can! :blue_heart: :heartbeat: :blue_heart:
+And if you've read this far, thanks so much! We're so proud of this community, and we can't wait to get to work on supporting it the best that we can! :blue_heart: :heartbeat: :blue_heart:
