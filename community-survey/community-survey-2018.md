@@ -1,21 +1,23 @@
-# Seattle VR 2018 Community Survey Results
+# Seattle VR 2018 Community Survey Results/Review
+A massive thank you to everyone who took the time to fill out our 2018 Community Survey. Feedback like this is invaluable as we work to serve the community as best was we can. And we thought we'd go question by question and analyze some takeways from your feedback and suggestions.
+
+Thanks so much again for the feedback, and for being an absolutely amazing community! :heart_eyes:
 
 ## 1) What types of events do you regularly attend / follow?
 
-This questions gives us an idea of our event sizes relative to each other but more valuably it provides a frame for rest of the questions to get a better understanding of the communities being represented by the results.
+This question gives us an idea of our event sizes relative to each other but more valuably it provides a frame for rest of the questions. Giving a better understanding of the communities being represented by the responses.
 
 ![Graph for question 1](graphs/1-events.png)
 
 ## 2) Please rate how important each item is on determining your attendance of any given meetup
 
-Easily the most informative question we can learn our communitee's priorities
-- Community Engagement and networking is very important, which is wonderful.
-- So is knowing what will be at each meetup.
-- The planned demos/activities/experiences are much more important then the over all event theme.
+Easily the most informative question, we can learn the community's priorities:
+- Community engagement and networking is extremely important.
+- Knowing details on the planned demos/activities/experiences is much more important then knowing the over all event theme.
 - People are self-motivated in their attendance and not attending just because someone else is attending.
-- Everyone likes new hardware but it's not vital to attendance
+- Everyone likes new hardware but it's not vital to attendance.
 - Snacks/merch aren't a priority.
-- More important than how we all get to an event, is how easy it is to get to.
+- The ease of getting to an event/meetup is more important the method.
 
 ### a. Community Engagement and Networking Opportunities
 ![Graph for question 2 - community engagement](graphs/2-community-engagement.png)
@@ -25,31 +27,22 @@ Easily the most informative question we can learn our communitee's priorities
 
 ### c. Snack and Drink Quality
 ![Graph for question 2 - snacks and drinks](graphs/2-snacks-and-drinks.png)
-
 ### d. Friend or Family is also attending
 ![Graph for question 2 - friend or family](graphs/2-friend-or-family.png)
-
 ### e. Meetup Theme
 ![Graph for question 2 - meetup theme](graphs/2-meetup-theme.png)
-
 ### f. New Technology / Hardware
 ![Graph for question 2 - new technology](graphs/2-new-technology.png)
-
 ### g. Parking Availability
 ![Graph for question 2 - parking](graphs/2-parking.png)
-
 ### h. Bike/Transit Options
 ![Graph for question 2 - bike and transit](graphs/2-alternative-transit.png)
-
 ### i. Merch / Swag / Giveaways
 ![Graph for question 2 - merch and swag](graphs/2-merch-swag.png)
-
 ### j. The Number of Things to Do / Try
 ![Graph for question 2 - things to do](graphs/2-things-to-do.png)
-
 ### k. Ease of getting to the event (travel times / distances)
 ![Graph for question 2 - ease of attendance](graphs/2-ease-of-attendance.png)
-
 ## 3) What is your favorite thing about attending Seattle VR events? (ie. why do you attend our events?)
 
 Community, finding inspiration in each other's work, dope new tech, and keeping a pulse on the industry just about sums up the responses. And we couldn't agree more!
